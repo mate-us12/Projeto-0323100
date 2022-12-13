@@ -13,5 +13,6 @@ Estrutura de Diretórios:
     models.py (formato das entradas da base de dados de chamados)
     static/ (CSSs e Imagens)
     templates/ (templates HTML)
+    ...
   ```
     
